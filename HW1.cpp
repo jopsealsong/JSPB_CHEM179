@@ -10,6 +10,8 @@
 #include <cmath>
 #include <list>
 #include <sstream>
+#include <vector>
+using namespace std;
 
 /* ----- PART 1: PARSING INPUT FILE ----- */
 
